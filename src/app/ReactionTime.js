@@ -50,7 +50,7 @@ const ReactionTime = () => {
             <span style={{ fontSize: '36px', fontWeight: 'bold' }}>
               {reactionTime} ms!
             </span>
-            <br /> Daha iyisini yapabilirmisininiz?
+            <br /> Daha iyisini yapabilirsiniz!
           </p>
           <br />
           <button onClick={startGame}>Yeniden Dene!</button>
